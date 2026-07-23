@@ -22,6 +22,24 @@ the library as `doc/index.html`. See also:
 * [Using the C API](http://www.vlfeat.org/install-c.html)
 * [Compiling from source](http://www.vlfeat.org/compiling.html)
 
+## Quick start with MLang
+To start using VLFeat as a MLang toolbox, download the specified VLFeat from [here](https://github.com/Suzhou-Tongyuan/vlfeat/archive/refs/heads/master.zip), then unpack it. 
+Start Syslab and run build script:
+
+    > run <VLFEATROOT>/build_vlfeat_mlang
+
+run the VLFeat setup command:
+
+    > run <VLFEATROOT>/toolbox/vl_setup
+
+Here `<VLFEATROOT>` should be replaced with the path to the VLFeat
+directory created by unpacking the archive. All VLFeat demos can now
+be run in a row by the command:
+
+    > vl_demo
+
+Check out the individual demos by editing this file: `edit vl_demo`.
+
 ## Quick start with MATLAB
 
 To start using VLFeat as a MATLAB toolbox, download the latest VLFeat
