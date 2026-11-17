@@ -1,5 +1,7 @@
 # VLFeat -- Vision Lab Features Library
 
+**English** | [简体中文](README_zh.md)
+
 > Version 0.9.21
 
 The VLFeat open source library implements popular computer vision
@@ -22,8 +24,8 @@ the library as `doc/index.html`. See also:
 * [Using the C API](http://www.vlfeat.org/install-c.html)
 * [Compiling from source](http://www.vlfeat.org/compiling.html)
 
-## Quick start with MLang
-To start using VLFeat as a MLang toolbox, download the specified VLFeat from [here](https://github.com/Suzhou-Tongyuan/vlfeat/archive/refs/heads/master.zip), then unpack it. 
+## Quick start with Syslab MLang
+To start using VLFeat as a Syslab MLang toolbox, download the specified VLFeat from [here](https://github.com/Suzhou-Tongyuan/vlfeat/archive/refs/heads/master.zip), then unpack it.
 Start Syslab and run build script:
 
     > run <VLFEATROOT>/build_vlfeat_mlang
